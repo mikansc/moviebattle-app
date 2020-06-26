@@ -16,7 +16,7 @@ Aplicativo feito em javascript vanilla, com busca em tempo real na [API do OMDB 
 
 <img src="./assets/image-1-v1.jpg" width="500"> 
 
-<img src="./assets/image-1-v1.jpg" width="500">
+<img src="./assets/image-2-v1.jpg" width="500">
 
 ----
 #### Futuras implementações ####
